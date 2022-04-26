@@ -6,4 +6,4 @@ Wiki for WordPress Snippets, Functions and Code Library
 
 
 
-[[https://raw.githubusercontent.com/sinanisler/WordPress-Developer-Library/main/wiki.jpg|alt=WordPress Developer Wiki]]
+[https://raw.githubusercontent.com/sinanisler/WordPress-Developer-Library/main/wiki.jpg|alt=WordPress Developer Wiki]
